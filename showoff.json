@@ -1,6 +1,6 @@
 { "name": "Metrics",
   "sections": [
-     {"section":"intro"}
+    {"section":"intro"}
     ,{"section":"metrics"}
     ,{"section":"outro"}
   ]}

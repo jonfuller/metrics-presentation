@@ -1,0 +1,26 @@
+Once a measure becomes a target, it loses value.
+
+Efferent/Afferent Coupling
+Cohesion
+Churn
+Cyclomatic Complexity
+LoC
+CRAP - Change Risk Analysis Predictions
+  cc^2 * ((1-coverage)/100)^3 + cc
+  so, increase coverage, or reduce complexity
+  upper limit is 30
+SPC
+Personal Velocity
+Velocity
+CFD
+bugs per LoC
+Pieces of flair
+Cycle Time
+Code Coverage
+Maintainability
+# Comments
+Commits/week (more smaller =  better)
+Build breaks (per individual)
+NDepend
+Depth of inheritance
+WTF's per minute

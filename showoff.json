@@ -1,1 +1,6 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{ "name": "Metrics",
+  "sections": [
+    {"section":"intro"}
+    ,{"section":"metrics"}
+    ,{"section":"outro"}
+  ]}

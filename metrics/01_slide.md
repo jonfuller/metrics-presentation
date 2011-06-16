@@ -1,5 +1,5 @@
 !SLIDE 
-# My Presentation #
+# Once a measure becomes a target, it loses value.
 
 !SLIDE bullets incremental
 # Bullet Points #

@@ -5,5 +5,11 @@
 !SLIDE 
 ## @jon_fuller
 ### github.com/jonfuller/metrics-presentation
-### heroku.com/altnet-metrics
+### altnet-metrics.heroku.com
 
+!SLIDE bullets
+# Metrics
+
+* Code
+* Team
+* How?
